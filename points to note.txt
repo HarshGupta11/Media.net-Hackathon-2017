@@ -1,0 +1,8 @@
+If you get charmap encoding error
+run set PYTHONIOENCODING=UTF-8 in your console before executing the script
+
+clustering used
+https://stats.stackexchange.com/questions/123060/clustering-a-long-list-of-strings-words-into-similarity-groups
+
+History schema
+http://kb.digital-detective.net/display/BF/History
